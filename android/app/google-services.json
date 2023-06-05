@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222549274288",
+    "project_id": "student-loan-33cd9",
+    "storage_bucket": "student-loan-33cd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222549274288:android:e5151a45fc60561fcbd575",
+        "android_client_info": {
+          "package_name": "com.studentloan.guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeJkV2wMlyXZfM-4RrAv1Z1ioo-2gMcIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
